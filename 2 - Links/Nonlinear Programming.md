@@ -1,0 +1,4 @@
+- 19-01-25 01:01
+- Sources: [[Nonlinear Programming - Wikipedia]]
+---
+**Definition**: In mathematics, nonlinear programming (NLP) is the process of solving an optimisation problem where some of the constraints are not linear equalities or the objective function is not a linear function. An optimisation problem is one of calculation of the extrema (maxima, minima or stationary points) of an objective function over a set of unknown real variables and conditional to the satisfaction of a system of equalities and inequalities, collectively termed constraints. It is the sub-field of mathematical optimisation that deals with problems that are not linear.

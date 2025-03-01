@@ -1,0 +1,1 @@
+Visual Studio Code, "Python environments in VS Code" [Online]. Available: [https://code.visualstudio.com/docs/python/environments](https://code.visualstudio.com/docs/python/environments).

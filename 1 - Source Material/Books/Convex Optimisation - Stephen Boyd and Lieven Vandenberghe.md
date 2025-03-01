@@ -1,0 +1,1 @@
+S. Boyd and L. Vandenberghe, _Convex Optimization_. Cambridge, UK: Cambridge University Press, 2004. Available: [https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)

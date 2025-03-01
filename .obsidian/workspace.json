@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "0a7b753c09c661c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4db37715abfa811",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "312a519aa01febc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Main Notes/Least Squares Problem.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Least Squares Problem"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ef983ee7597a1e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b0132056153be93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6947903e6b234c18",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "File explorer"
+            }
+          },
+          {
+            "id": "d6da2e9ab6d2ea70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "adad926b2602dedd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 398.5
+  },
+  "right": {
+    "id": "93d946dc96f788c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "77c213719e8d9b58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e321861dbf79ebb9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6 - Main Notes/Test Note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Test Note"
+            }
+          },
+          {
+            "id": "820b17db82c68f35",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6 - Main Notes/Test Note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Test Note"
+            }
+          },
+          {
+            "id": "7288e586644da224",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "85ba3dbed125c884",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6 - Main Notes/Test Note.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Test Note"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "312a519aa01febc5",
+  "lastOpenFiles": [
+    "4 - Main Notes/Mathematical Optimisation Introduction.md",
+    "4 - Main Notes/Power Grids as Graphs.md",
+    "4 - Main Notes/Solving Mathematical Optimisation.md",
+    "4 - Main Notes/Zeno's Paradoxes.md",
+    "4 - Main Notes/Virtual Environment (venv) in VS Code.md",
+    "4 - Main Notes/Least Squares Problem.md",
+    "1 - Source Material/Other/Python environments in VS Code - Visual Studio Code.md",
+    "2 - Links/Graph Theory.md",
+    "1 - Source Material/Pictures/Zeno's Paradox Diagram.png",
+    "1 - Source Material/Pictures/Undirected Graph.png",
+    "1 - Source Material/Pictures/Ordinary Least Squares (OLS) Regression.png",
+    "1 - Source Material/Pictures/Directed Graph.png",
+    "1 - Source Material/Pictures/Convex Optimisation Standard Form.png",
+    "2 - Links/Least Squares.md",
+    "4 - Main Notes/Untitled.md",
+    "1 - Source Material/Books/Convex Optimisation - Stephen Boyd and Lieven Vandenberghe.md",
+    "3 - Templates/Main Note Template.md",
+    "3 - Templates/Definition Template.md",
+    "2 - Links/Mathematics.md",
+    "2 - Links/Real Analysis.md",
+    "2 - Links/Philosophy.md",
+    "2 - Links/Convex Optimisation.md",
+    "2 - Links/Virtual Environment.md",
+    "2 - Links/Python.md",
+    "2 - Links/Power Flow.md",
+    "2 - Links/Optimal Power Flow.md",
+    "2 - Links/Linear Programming.md",
+    "2 - Links/Nonlinear Programming.md",
+    "1 - Source Material/Pictures/Directed Graph Representation of Synthetic Grid.png",
+    "2 - Links/VS Code.md",
+    "2 - Links/Electricity Grids.md",
+    "1 - Source Material/Articles/A Gentle Introduction to Power Flow - Letif Mones.md",
+    "1 - Source Material/Pictures",
+    "Untitled.canvas",
+    "1 - Source Material/Videos",
+    "1 - Source Material/Papers",
+    "1 - Source Material/Other",
+    "1 - Source Material/Books",
+    "Untitled",
+    "1 - Source Material/Articles",
+    "4 - Main Notes",
+    "3 - Templates",
+    "4 - Indexes"
+  ]
+}
